@@ -1,0 +1,20 @@
+style header{
+    width: 90%;
+    height: 120px;
+    background-color: white;
+    margin: 0 auto;
+}
+header img{
+    width: 400px;
+    position: relative;
+    left: 3%;
+    top: 4%;
+}
+header h1{
+    font-size: 200%;
+    font-family: tahoma;
+    color: black;
+    position: relative;
+    left: 40%;
+    top: -80px;
+}
